@@ -37,7 +37,7 @@
                     <artifactId>maven-war-plugin</artifactId>
                     <version>3.3.2</version>
                     <configuration>
-                        <webappDirectory>../servlet-2/wabapp/WEB-INF/web.xml</webappDirectory>
+                        <webappDirectory>../servlet-2/src/main/wabapp/WEB-INF/web.xml</webappDirectory>
                     </configuration>
                 </plugin>
             </plugins>
